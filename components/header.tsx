@@ -27,7 +27,7 @@ export default function Header() {
           <ThemeToggle />
 
           <SignedOut>
-            <SignInButton mode='modal'>
+            <SignInButton>
               <Button size='sm'>Sign in</Button>
             </SignInButton>
           </SignedOut>
